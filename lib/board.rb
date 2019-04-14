@@ -5,3 +5,4 @@ bottomrow = [" ", " ", " "]
 
 board = toprow, middlerow, bottomrow
 
+puts board
