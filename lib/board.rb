@@ -1,8 +1,5 @@
 # Define the variable board below
-toprow = [" ", " ", " "]
-middlerow = [" ", " ", " "]
-bottomrow = [" ", " ", " "]
+row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-board = toprow, middlerow, bottomrow
 
-puts board
+board = row
